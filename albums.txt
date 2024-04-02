@@ -1,0 +1,49 @@
+4
+Neil Diamond
+Greatest Hits
+images/1.jpg
+1968
+2
+3
+Crackling Rose
+sounds/01-Cracklin-rose.wav
+Soolaimon
+sounds/02-Soolaimon.wav
+Sweet Caroline
+sounds/03-Sweet_Caroline.wav
+Platters
+Greatest Hits
+images/2.jpg
+1991
+1
+3
+Twilight Time
+sounds/01-Twilight_Time.wav
+The Great Pretender
+sounds/02-The_Great_Pretender.wav
+Only You
+sounds/03-Only_You.wav
+Don McClean
+American Pie
+images/3.jpg
+1971
+2
+3
+Winterwood
+sounds/01-Winterwood.wav
+Babylon
+sounds/02-Babylon.wav
+Empty Chairs
+sounds/03-Empty_Chairs.wav
+Carly Simon
+No Secrets
+images/4.jpg
+1972
+2
+3
+The Carter Family
+sounds/01-The_Carter_Family.wav
+Your So Vain
+sounds/02-Youre_So_Vain.wav
+Embrace me You Child
+sounds/03-Embrace_Me_You_Child.wav
