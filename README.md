@@ -1,6 +1,8 @@
 # Ruby-Music-Player
 University Project, First Year Semester 1
 
+Demonstration video: https://www.youtube.com/watch?v=DIy8mJinQjk
+
 Overview:
 This project is a simple music player developed using Ruby and the Gosu library. It provides a graphical user interface (GUI) for users to browse albums, select tracks, and control playback. The player allows users to view album artwork, track information, and play/pause tracks.
 
