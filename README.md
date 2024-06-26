@@ -1,5 +1,5 @@
 # Ruby-Music-Player
-University Project, First Year Semester 1
+## University Project, First Year Semester 1
 
 Demonstration video: https://www.youtube.com/watch?v=DIy8mJinQjk
 
